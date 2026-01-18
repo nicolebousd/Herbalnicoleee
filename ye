@@ -46,7 +46,10 @@ html
     }
   </style>
 </head>
-<body>
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Το πρόγραμμα περιήγησης δεν υποστηρίζει το στοιχείο βίντεο.
+</video>
   <video autoplay muted loop playsinline id="bg-video">
     <source src="video.mp4" type="video/mp4" />
     Το πρόγραμμα περιήγησης δεν υποστηρίζει το βίντεο.
