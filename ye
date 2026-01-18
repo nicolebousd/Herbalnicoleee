@@ -51,11 +51,8 @@ html
     <source src="video.mp4" type="video/mp4" />
     Το πρόγραμμα περιήγησης δεν υποστηρίζει το βίντεο.
   </video>
-Marh
 <div class="content">
-    <h1>Καλωσήρθες στο Portfolio μου</h1>
-    <p>Εδώ παρουσιάζω τη δουλειά μου με όμορφα animations και βίντεο.</p>
-  </div>
+   </div>
 </body>
 </html>
 
